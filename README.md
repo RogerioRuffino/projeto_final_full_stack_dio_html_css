@@ -1,2 +1,5 @@
-# projeto_final_html_css_dio_tqi
-Projeto curso html/css Dio - Modificações e estudos de outras funcionalidades CSS modelo Gabriela Pinheiro
+# projeto_final_html_css
+Projeto final programa Dio full stack, html/css Dio - Modificações e estudos de outras funcionalidades CSS
+utilizando o modelo de portfólio de Gabriela Pinheiro Dio.
+
+
